@@ -64,8 +64,8 @@ choco install ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/Chiesa14/KinyarwandaVoiceAssistant.git
-cd KinyarwandaVoiceAssistant
+git clone https://github.com/MuhirwaVerygood/RwandaVoiceAI-.git
+cd RwandaVoiceAI-
 
 # Set up virtual environment
 python -m venv .venv
@@ -159,7 +159,6 @@ Access the Interface:
 | Raw Transcription | Matched Question                  | System Response                                                        |
 |-------------------|-----------------------------------|------------------------------------------------------------------------|
 | mizeneza          | Umeze neza?                       | Yego! Turashima Imana.                                                |
-| wakorewee heheh   | Wakorewe hehe?                    | Nakorewe muri Rwanda Coding Academy, nakozwe na Remy Chiesa.         |
 | mwiriwe neza      | Mwiriwe neza?                     | Mwiriwe neza cyane ! Mwebwe mumeze mute??                             |
 | amazina           | Amazina yawe ni ayahe?            | Nitwa KinyaWhisper.                                                   |
 | ninde wakoze      | Ninde wagukoze se?                | Nakozwe na Verygood Muhirwa.                                          |
